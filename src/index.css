@@ -30,6 +30,14 @@ body {
   min-height: 100vh;
 }
 
+.compteur {
+  height:100px;
+  font-size: x-large;
+  color :blueviolet;
+}
+.case {
+  color:green;
+}
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
